@@ -1,2 +1,3 @@
-# hyper-bug-tracker-zcux
-Automated issue comment bot repository
+# Hyper Bug Tracker Zcux
+
+Automated issue comment bot repository.
